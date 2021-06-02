@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\thebr\Hrs cs\S2_Lab2-Minesweeper\S2 Lab2-Minesweeper.iml" filepath="C:\Users\thebr\Hrs cs\S2_Lab2-Minesweeper\S2 Lab2-Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lab2-Minesweeper.iml" filepath="$PROJECT_DIR$/S2_Lab2-Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minesweeper.iml" filepath="$PROJECT_DIR$/minesweeper.iml" />
+    </modules>
+  </component>
+</project>
